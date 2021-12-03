@@ -7,3 +7,5 @@
 - каталог ``reports`` - непосредственно отчеты
 
 - каталог ``misc`` - для всего прочего
+
+Отчет о поступленных средств и расписание доступны в виде таблицы по `ссылке <https://docs.google.com/spreadsheets/d/1SgHb1dybE2T4pkXdhKNxEbSD_jSRbVJZ6h31PUVjZZw/edit>__`.
